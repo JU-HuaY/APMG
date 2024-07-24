@@ -45,7 +45,7 @@ conda install tensorboard -c conda-forge
 
 ## Datasets
 
-Please refer to [`README.md`](./data/README.md) in the `data` folder.
+Please refer to [`README.md`](./data/README.md) in the `dataset` folder.
 
 ## Sampling
 <img src="./image/pipeline.jpg" alt="model"  width="70%"/>
