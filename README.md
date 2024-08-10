@@ -20,7 +20,7 @@ BioPython | 1.79
 ### Install via conda yaml file (cuda 11.3)
 ```bash
 conda env create -f env_cuda113.yml
-conda activate Pocket2Mol
+conda activate APMG
 ```
 
 ### Install manually
